@@ -5,6 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:beige;
+  text-align: center;
+  color:black
+
+}
+h1{
+  text-align: center;
+}
+h3:hover{
+  text-decoration: underline;
+  color:red;
+}
+button{
+  border-radius:50%;
+  width:140px;
+  
+}
+.navbar{
+  background-color:darkred;
+
+}
+footer{
+  background-color: darkred;
 }
 
 code {
